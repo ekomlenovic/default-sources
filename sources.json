@@ -79,6 +79,10 @@
     {
       "identifier": "com.deliacheminot.mona",
       "sourceURL": "https://raw.githubusercontent.com/delia-cheminot/mona-hrt/refs/heads/main/ios_source.json"
+    },
+    {
+      "identifier": "com.rushhours.repo",
+      "sourceURL": "https://raw.githubusercontent.com/ekomlenovic/rush_hour_ios_android/refs/heads/main/sidestore-source.json"
     }
   ],
   "sources": [
